@@ -1,0 +1,20 @@
+# Confere o repositório a cada envio e a cada Pull Request (somente leitura; sem segredos). Modelo R4.16-E2.
+name: Conferir editais.json
+on:
+  push:
+  pull_request:
+permissions:
+  contents: read
+jobs:
+  conferir:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@11bd71901bbe5b1630ceea73d27597364c9af683 # v4.2.2
+      - name: Arquivos permitidos, sem dados pessoais, contrato editais.v1
+        run: |
+          # Regra de produção (sem conteúdo fictício) para a main e para Pull Requests que entram na main.
+          if [ "${GITHUB_REF_NAME}" = "main" ] || [ "${GITHUB_BASE_REF}" = "main" ]; then
+            python3 verificar-conteudo.py . --producao
+          else
+            python3 verificar-conteudo.py .
+          fi
