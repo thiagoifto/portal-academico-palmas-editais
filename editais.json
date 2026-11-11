@@ -1,0 +1,1116 @@
+{
+ "versao": "editais.v1",
+ "gerado_em": "2026-11-11",
+ "origem": "Curadoria da GEAE — somente editais conferidos e aprovados",
+ "aviso": "Prevalecem sempre o edital oficial e suas retificações. Confira datas e regras no documento publicado pelo IFTO.",
+ "categorias": {
+  "ingresso": "Ingresso em cursos técnicos e superiores",
+  "transferencia-reingresso": "Transferência e reingresso",
+  "portador-diploma": "Portador de diploma e complementação de estudos",
+  "monitoria": "Monitoria",
+  "centro-idiomas": "Centro de Idiomas",
+  "outros": "Outros editais acadêmicos"
+ },
+ "editais": [
+  {
+   "id": "edital-36-2026-transferencia-portador-reingresso-superiores",
+   "numero": "36/2026",
+   "titulo": "Seleção para Transferência, Admissão de Portador de Título, Reingresso e Mudança de Cursos Superiores - 2026",
+   "categorias": [
+    "transferencia-reingresso",
+    "portador-diploma"
+   ],
+   "nivel": "Ensino Superior",
+   "publico": "Candidatos à transferência, admissão de portador de título, reingresso ou mudança de curso superior (ingresso em 2026/2)",
+   "publicado_em": "2026-05-13",
+   "link_edital": "https://portal.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-36-2026-selecao-para-transferencia-admissao-de-portador-de-titulo-reingresso-e-mudanca-de-cursos-superiores-2026/edital-36-2026-selecao-transferencia-externa-graduacao-abertura.pdf",
+   "pagina_oficial": "https://portal.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-36-2026-selecao-para-transferencia-admissao-de-portador-de-titulo-reingresso-e-mudanca-de-cursos-superiores-2026",
+   "cronograma": [
+    {
+     "etapa": "inscricao",
+     "inicio": "2026-05-14",
+     "fim": "2026-06-01"
+    },
+    {
+     "etapa": "outro",
+     "inicio": "2026-06-02",
+     "rotulo": "Homologação das inscrições"
+    },
+    {
+     "etapa": "recurso",
+     "inicio": "2026-06-04",
+     "rotulo": "Recurso das inscrições"
+    },
+    {
+     "etapa": "resultado_preliminar",
+     "inicio": "2026-06-19"
+    },
+    {
+     "etapa": "recurso",
+     "inicio": "2026-06-22",
+     "rotulo": "Recurso do resultado preliminar"
+    },
+    {
+     "etapa": "resultado_final",
+     "inicio": "2026-06-23"
+    },
+    {
+     "etapa": "matricula",
+     "inicio": "2026-06-24",
+     "fim": "2026-06-26"
+    }
+   ],
+   "documentos": [
+    {
+     "tipo": "retificacao",
+     "titulo": "Retificação nº 1 (do resultado preliminar)",
+     "url": "https://portal.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-36-2026-selecao-para-transferencia-admissao-de-portador-de-titulo-reingresso-e-mudanca-de-cursos-superiores-2026/edital_36_2026_resultado_preliminar_do_processo_de_selecao_transferencia_admissao_de_portador_de_titulo_reingresso_e_mudanca_de_turno_para_o_periodo_letivo_de_2026_2_resultado_preliminar_retificacao1.pdf",
+     "data": "2026-06-03"
+    },
+    {
+     "tipo": "resultado_preliminar",
+     "titulo": "Resultado preliminar (primeira publicação)",
+     "url": "https://portal.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-36-2026-selecao-para-transferencia-admissao-de-portador-de-titulo-reingresso-e-mudanca-de-cursos-superiores-2026/edital_36_2026_resultado_preliminar_do_processo_de_selecao_transferencia_admissao_de_portador_de_titulo_reingresso_e_mudanca_de_turno_para_o_periodo_letivo_de_2026_2_resultado_preliminar.pdf"
+    },
+    {
+     "tipo": "resultado_preliminar",
+     "titulo": "Resultado preliminar",
+     "url": "https://portal.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-36-2026-selecao-para-transferencia-admissao-de-portador-de-titulo-reingresso-e-mudanca-de-cursos-superiores-2026/edital-36-2026-seletivo-transferencia-portador-de-titulo-reingresso-2026-resultado-preliminar.pdf",
+     "data": "2026-06-19"
+    },
+    {
+     "tipo": "resultado_definitivo",
+     "titulo": "Resultado final",
+     "url": "https://portal.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-36-2026-selecao-para-transferencia-admissao-de-portador-de-titulo-reingresso-e-mudanca-de-cursos-superiores-2026/edital-36-2026-resultado-final-do-processo-de-selecao-transferencia-admissao-de-portador-de-titulo-reingresso-mudanca-de-turno.pdf",
+     "data": "2026-06-23"
+    },
+    {
+     "tipo": "convocacao",
+     "titulo": "Convocação para matrícula",
+     "url": "https://portal.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-36-2026-selecao-para-transferencia-admissao-de-portador-de-titulo-reingresso-e-mudanca-de-cursos-superiores-2026/edital-36-2026-convocacao-para-matricula-do-processo-de-selecao-transferencia-admissao-de-portador-de-titulo-reingresso-mudanca-de-turno.pdf",
+     "data": "2026-06-23"
+    }
+   ],
+   "palavras_chave": [
+    "transferência",
+    "portador de diploma",
+    "portador de título",
+    "reingresso",
+    "mudança de curso",
+    "2026/2"
+   ],
+   "aprovacao": {
+    "data": "2026-11-01",
+    "registro": "GEAE-R413D"
+   }
+  },
+  {
+   "id": "edital-53-2026-vagas-remanescentes-superiores-2026-2",
+   "numero": "53/2026",
+   "titulo": "Processo Seletivo de Vagas Remanescentes para Cursos Superiores - 2026/2",
+   "categorias": [
+    "ingresso"
+   ],
+   "nivel": "Ensino Superior",
+   "publico": "Candidatos às vagas remanescentes dos cursos superiores presenciais do Campus Palmas",
+   "publicado_em": "2026-07-27",
+   "link_edital": "https://www.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-53-2026-pal-rei-ifto-de-27-de-julho-de-2026-processo-seletivo-de-vagas-remanescentes-para-cursos-superiores-2026-2-2/01sei_ifto-3261903-edital-gabinete-53.pdf",
+   "pagina_oficial": "https://www.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-53-2026-pal-rei-ifto-de-27-de-julho-de-2026-processo-seletivo-de-vagas-remanescentes-para-cursos-superiores-2026-2-2",
+   "cronograma": [
+    {
+     "etapa": "inscricao",
+     "inicio": "2026-07-27",
+     "fim": "2026-08-05"
+    },
+    {
+     "etapa": "resultado_preliminar",
+     "inicio": "2026-08-11"
+    },
+    {
+     "etapa": "resultado_final",
+     "inicio": "2026-08-13"
+    },
+    {
+     "etapa": "matricula",
+     "inicio": "2026-08-13",
+     "fim": "2026-08-17",
+     "rotulo": "Matrícula da 1ª chamada"
+    }
+   ],
+   "documentos": [
+    {
+     "tipo": "retificacao",
+     "titulo": "Retificação do cronograma",
+     "url": "https://www.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-53-2026-pal-rei-ifto-de-27-de-julho-de-2026-processo-seletivo-de-vagas-remanescentes-para-cursos-superiores-2026-2-2/edital-53-2026-seletivo-vagas-remanescentes-cursos-superiores-retificacao.pdf",
+     "data": "2026-08-03"
+    },
+    {
+     "tipo": "comunicado",
+     "titulo": "Homologação das inscrições",
+     "url": "https://www.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-53-2026-pal-rei-ifto-de-27-de-julho-de-2026-processo-seletivo-de-vagas-remanescentes-para-cursos-superiores-2026-2-2/edital-53-2026-seletivo-vagas-remanescentes-cursos-superiores-homologacao-das-inscricoes.pdf",
+     "data": "2026-08-07"
+    },
+    {
+     "tipo": "resultado_preliminar",
+     "titulo": "Resultado preliminar e convocação para matrícula",
+     "url": "https://www.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-53-2026-pal-rei-ifto-de-27-de-julho-de-2026-processo-seletivo-de-vagas-remanescentes-para-cursos-superiores-2026-2-2/edital-53-2026-seletivo-vagas-remanescentes-cursos-superiores-resultado-preliminar.pdf",
+     "data": "2026-08-10"
+    },
+    {
+     "tipo": "resultado_definitivo",
+     "titulo": "Resultado final",
+     "url": "https://www.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-53-2026-pal-rei-ifto-de-27-de-julho-de-2026-processo-seletivo-de-vagas-remanescentes-para-cursos-superiores-2026-2-2/edital-53-2026-seletivo-vagas-remanescentes-cursos-superiores-resultado-final.pdf",
+     "data": "2026-08-13"
+    },
+    {
+     "tipo": "retificacao",
+     "titulo": "Retificação do resultado final e convocação para matrícula",
+     "url": "https://www.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-53-2026-pal-rei-ifto-de-27-de-julho-de-2026-processo-seletivo-de-vagas-remanescentes-para-cursos-superiores-2026-2-2/edital-53-2026-processo-seletivo-de-vagas-remanescentes-cursos-superiores-retificacao.pdf",
+     "data": "2026-08-15"
+    },
+    {
+     "tipo": "chamada",
+     "titulo": "Resultado da 2ª chamada e convocação para matrícula",
+     "url": "https://www.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-53-2026-pal-rei-ifto-de-27-de-julho-de-2026-processo-seletivo-de-vagas-remanescentes-para-cursos-superiores-2026-2-2/edital-53-2026-resultado-segunda-chamada-convocacao-para-matricula.pdf",
+     "data": "2026-08-19"
+    },
+    {
+     "tipo": "chamada",
+     "titulo": "Resultado da 3ª chamada e convocação para matrícula",
+     "url": "https://www.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-53-2026-pal-rei-ifto-de-27-de-julho-de-2026-processo-seletivo-de-vagas-remanescentes-para-cursos-superiores-2026-2-2/edital-53-2026-resultado-terceira-chamada-convocacao-para-matricula.pdf"
+    }
+   ],
+   "palavras_chave": [
+    "vagas remanescentes",
+    "graduação",
+    "2026/2"
+   ],
+   "aprovacao": {
+    "data": "2026-11-01",
+    "registro": "GEAE-R413D"
+   }
+  },
+  {
+   "id": "edital-55-2026-vagas-remanescentes-tecnicos-subsequentes-2026-2",
+   "numero": "55/2026",
+   "titulo": "Processo Seletivo de Vagas Remanescentes para Cursos Técnicos Subsequentes - 2026/2",
+   "categorias": [
+    "ingresso"
+   ],
+   "nivel": "Técnico Subsequente",
+   "publico": "Candidatos às vagas remanescentes dos cursos técnicos subsequentes do Campus Palmas",
+   "publicado_em": "2026-07-28",
+   "link_edital": "https://portal.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-55-2026-pal-rei-ifto-de-28-de-julho-de-2026-processo-seletivo-de-vagas-remanescentes-para-cursos-tecnicos-subsequentes-2026-2/edital-55_ifto-3263366.pdf",
+   "pagina_oficial": "https://portal.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-55-2026-pal-rei-ifto-de-28-de-julho-de-2026-processo-seletivo-de-vagas-remanescentes-para-cursos-tecnicos-subsequentes-2026-2",
+   "cronograma": [
+    {
+     "etapa": "inscricao",
+     "inicio": "2026-07-28",
+     "fim": "2026-08-03"
+    },
+    {
+     "etapa": "resultado_preliminar",
+     "inicio": "2026-08-07"
+    },
+    {
+     "etapa": "resultado_final",
+     "inicio": "2026-08-10"
+    },
+    {
+     "etapa": "matricula",
+     "inicio": "2026-08-10",
+     "fim": "2026-08-13",
+     "rotulo": "Matrícula da 1ª chamada"
+    }
+   ],
+   "documentos": [
+    {
+     "tipo": "comunicado",
+     "titulo": "Homologação das inscrições",
+     "url": "https://portal.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-55-2026-pal-rei-ifto-de-28-de-julho-de-2026-processo-seletivo-de-vagas-remanescentes-para-cursos-tecnicos-subsequentes-2026-2/homologacao-das-inscricoes.pdf",
+     "data": "2026-08-05"
+    },
+    {
+     "tipo": "resultado_preliminar",
+     "titulo": "Resultado preliminar e convocação para matrícula",
+     "url": "https://portal.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-55-2026-pal-rei-ifto-de-28-de-julho-de-2026-processo-seletivo-de-vagas-remanescentes-para-cursos-tecnicos-subsequentes-2026-2/edital-55-2026-processo-seletivo-2026-2-vagas-remanescentes-para-cursos-tecnicos-subsequentes-resultado-preliminar-convocacao-para-matricula.pdf",
+     "data": "2026-08-07"
+    },
+    {
+     "tipo": "chamada",
+     "titulo": "Resultado da 2ª chamada e convocação para matrícula",
+     "url": "https://portal.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-55-2026-pal-rei-ifto-de-28-de-julho-de-2026-processo-seletivo-de-vagas-remanescentes-para-cursos-tecnicos-subsequentes-2026-2/edital-55-2026-resultado-segunda-chamada-convocacao-para-matricula-pdf.pdf"
+    }
+   ],
+   "palavras_chave": [
+    "vagas remanescentes",
+    "técnico subsequente",
+    "2026/2"
+   ],
+   "aprovacao": {
+    "data": "2026-11-01",
+    "registro": "GEAE-R413D"
+   }
+  },
+  {
+   "id": "edital-39-2026-transferencia-externa-tecnicos",
+   "numero": "39/2026",
+   "titulo": "Seleção para Transferência Externa Cursos Técnicos - 2026/1",
+   "categorias": [
+    "transferencia-reingresso"
+   ],
+   "nivel": "Cursos técnicos",
+   "publico": "Candidatos à transferência externa para cursos técnicos do Campus Palmas",
+   "publicado_em": "2026-05-13",
+   "link_edital": "https://www.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-39-2026-selecao-para-transferencia-externa-cursos-tecnicos-2026-campus-palmas/edital-39-2026-selecao-transferencia-externa-tecnico-abertura.pdf",
+   "pagina_oficial": "https://www.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-39-2026-selecao-para-transferencia-externa-cursos-tecnicos-2026-campus-palmas",
+   "cronograma": [
+    {
+     "etapa": "inscricao",
+     "inicio": "2026-05-14",
+     "fim": "2026-06-02"
+    }
+   ],
+   "documentos": [
+    {
+     "tipo": "resultado_preliminar",
+     "titulo": "Resultado preliminar",
+     "url": "https://www.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-39-2026-selecao-para-transferencia-externa-cursos-tecnicos-2026-campus-palmas/edital-39-2026-seletivo-transferencia-2026-resultado-preliminar.pdf",
+     "data": "2026-06-19"
+    },
+    {
+     "tipo": "resultado_preliminar",
+     "titulo": "Resultado preliminar (segunda publicação)",
+     "url": "https://www.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-39-2026-selecao-para-transferencia-externa-cursos-tecnicos-2026-campus-palmas/edital_39_2026_processo_de_selecao_transferencia_externa_e_reingresso_para-o_periodo_letivo_-2026_2_resultado_preliminar.pdf"
+    },
+    {
+     "tipo": "resultado_definitivo",
+     "titulo": "Resultado final e convocação da matrícula",
+     "url": "https://www.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-39-2026-selecao-para-transferencia-externa-cursos-tecnicos-2026-campus-palmas/publicacao-3229936-etapas-do-edital.pdf",
+     "data": "2026-06-23"
+    }
+   ],
+   "palavras_chave": [
+    "transferência externa",
+    "técnico"
+   ],
+   "aprovacao": {
+    "data": "2026-11-01",
+    "registro": "GEAE-R413D"
+   }
+  },
+  {
+   "id": "edital-17-2026-auxilios-ingressantes",
+   "numero": "17/2026",
+   "titulo": "Seleção de Estudantes Ingressantes para Concessão de Auxílios Estudantis (Financeiro e Alimentação) do Campus Palmas",
+   "categorias": [
+    "outros"
+   ],
+   "publico": "Estudantes ingressantes do Campus Palmas (auxílios financeiro e alimentação)",
+   "link_edital": "https://www.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-17-2026-selecao-de-estudantes-ingressantes-para-concessao-de-auxilios-estudantis-financeiro-e-alimentacao-do-campus-palmas/edital_17_2026_processo_seletivo_para_concessao_de_auxilios_para_estudantes_ingressantes.pdf",
+   "pagina_oficial": "https://www.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-17-2026-selecao-de-estudantes-ingressantes-para-concessao-de-auxilios-estudantis-financeiro-e-alimentacao-do-campus-palmas",
+   "documentos": [
+    {
+     "tipo": "retificacao",
+     "titulo": "Retificação nº 1",
+     "url": "https://www.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-17-2026-selecao-de-estudantes-ingressantes-para-concessao-de-auxilios-estudantis-financeiro-e-alimentacao-do-campus-palmas/edital_17_2026_edital_de_selecao_-de_estudantes_ingressantes_para_concessao_de_auxilios_estudantis_financeiro_e_alimentacao_retificacao1.pdf"
+    },
+    {
+     "tipo": "comunicado",
+     "titulo": "Homologação preliminar da conferência e análise documental e convocação para entrevista",
+     "url": "https://www.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-17-2026-selecao-de-estudantes-ingressantes-para-concessao-de-auxilios-estudantis-financeiro-e-alimentacao-do-campus-palmas/edital_17_2026_selecao_de_estudantes_ingressantes_para_concessao_de_auxilio_estudantil_homologacao_das_inscricoes_e_convocacao_para_entrevista.pdf",
+     "data": "2026-03-11"
+    },
+    {
+     "tipo": "outro",
+     "titulo": "Resposta aos recursos contra a conferência e análise documental",
+     "url": "https://www.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-17-2026-selecao-de-estudantes-ingressantes-para-concessao-de-auxilios-estudantis-financeiro-e-alimentacao-do-campus-palmas/edital_17_2026_edital_de_selecao_-de_estudantes_ingressantes_para_concessao_de_auxilios_estudantis_financeiro_e_alimentacao_resultado_de_recurso.pdf"
+    },
+    {
+     "tipo": "resultado_preliminar",
+     "titulo": "Resultado preliminar",
+     "url": "https://www.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-17-2026-selecao-de-estudantes-ingressantes-para-concessao-de-auxilios-estudantis-financeiro-e-alimentacao-do-campus-palmas/edital_17_2026_edital_de_selecao_-de_estudantes_ingressantes_para_concessao_de_auxilios_estudantis_financeiro_e_alimentacao_resultado_preliminar.pdf"
+    },
+    {
+     "tipo": "resultado_definitivo",
+     "titulo": "Resultado final",
+     "url": "https://www.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-17-2026-selecao-de-estudantes-ingressantes-para-concessao-de-auxilios-estudantis-financeiro-e-alimentacao-do-campus-palmas/edital_17_2026_edital_de_selecao_-de_estudantes_ingressantes_para_concessao_de_auxilios_estudantis_financeiro_e_alimentacao_resultado_de_resultado_final.pdf"
+    }
+   ],
+   "palavras_chave": [
+    "auxílio estudantil",
+    "assistência estudantil",
+    "ingressantes",
+    "alimentação"
+   ],
+   "aprovacao": {
+    "data": "2026-11-01",
+    "registro": "GEAE-R413D"
+   }
+  },
+  {
+   "id": "edital-10-2026-cursos-energia",
+   "numero": "10/2026",
+   "titulo": "Processo Seletivo Simplificado para os Cursos de Eficiência Energética, Instalador de Sistemas Fotovoltaicos e Mobilidade Elétrica",
+   "categorias": [
+    "ingresso"
+   ],
+   "nivel": "Formação Inicial e Continuada (FIC)",
+   "publico": "Candidatos aos cursos FIC ofertados no Campus Palmas",
+   "publicado_em": "2026-02-04",
+   "link_edital": "https://portal.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-10-2026-processo-seletivo-simplificado-para-os-cursos-de-eficiencia-energetica/edital_10_processo_seletivo_cursos_eficiencia_energetica_sistemas_fotovoltaicos.pdf",
+   "pagina_oficial": "https://portal.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-10-2026-processo-seletivo-simplificado-para-os-cursos-de-eficiencia-energetica",
+   "cronograma": [
+    {
+     "etapa": "inscricao",
+     "inicio": "2026-02-07",
+     "fim": "2026-02-22"
+    },
+    {
+     "etapa": "outro",
+     "inicio": "2026-02-25",
+     "rotulo": "Sorteio"
+    },
+    {
+     "etapa": "resultado_final",
+     "inicio": "2026-02-28",
+     "rotulo": "Resultado definitivo do sorteio"
+    },
+    {
+     "etapa": "matricula",
+     "inicio": "2026-03-01",
+     "fim": "2026-03-05",
+     "rotulo": "Matrícula da 1ª chamada"
+    }
+   ],
+   "documentos": [
+    {
+     "tipo": "comunicado",
+     "titulo": "Homologação das inscrições",
+     "url": "https://portal.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-10-2026-processo-seletivo-simplificado-para-os-cursos-de-eficiencia-energetica/edital_10_2026_processo-seletivo_simplificado_para_os_cursos_de_eficiencia_energetica_instalador_de_sistemas_fotovoltaicos_mobilidade_eletrica_do_campus_homologacao_das_inscricoes.pdf"
+    },
+    {
+     "tipo": "outro",
+     "titulo": "Resultado",
+     "url": "https://portal.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-10-2026-processo-seletivo-simplificado-para-os-cursos-de-eficiencia-energetica/edital_10_resultado.pdf",
+     "data": "2026-03-02"
+    },
+    {
+     "tipo": "chamada",
+     "titulo": "Segunda chamada",
+     "url": "https://portal.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-10-2026-processo-seletivo-simplificado-para-os-cursos-de-eficiencia-energetica/edital_10_2026_processo-seletivo_simplificado_para_os_cursos_de_eficiencia_energetica_instalador_de_sistemas_fotovoltaicos_mobilidade_eletrica_do_campus_homologacao_segunda_chamada.pdf"
+    }
+   ],
+   "palavras_chave": [
+    "fic",
+    "fotovoltaico",
+    "eficiência energética",
+    "mobilidade elétrica"
+   ],
+   "aprovacao": {
+    "data": "2026-11-01",
+    "registro": "GEAE-R413D"
+   }
+  },
+  {
+   "id": "edital-11-2026-fic-recepcionista-mulheres-mil",
+   "numero": "11/2026",
+   "titulo": "Processo Seletivo Simplificado para o Curso FIC Recepcionista - Programa Mulheres Mil",
+   "categorias": [
+    "ingresso"
+   ],
+   "nivel": "Formação Inicial e Continuada (FIC)",
+   "publico": "Candidatas ao curso FIC Recepcionista (Programa Mulheres Mil)",
+   "publicado_em": "2026-02-05",
+   "link_edital": "https://www.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-11-2026-processo-seletivo-simplificado-para-o-curso-de-formacao-inicial-e-continuada-fic-recepcionista-ofertados-pelo-bolsa-formacao-programa-mulheres-mil-no-ambito-do-campus-palmas/edital_11_2026_processo_simplificado_para_cursos_de_recepcionista_do_programa_mulheres_mil_no_campus_palmas.pdf",
+   "pagina_oficial": "https://www.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-11-2026-processo-seletivo-simplificado-para-o-curso-de-formacao-inicial-e-continuada-fic-recepcionista-ofertados-pelo-bolsa-formacao-programa-mulheres-mil-no-ambito-do-campus-palmas",
+   "documentos": [
+    {
+     "tipo": "retificacao",
+     "titulo": "Retificação nº 1",
+     "url": "https://www.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-11-2026-processo-seletivo-simplificado-para-o-curso-de-formacao-inicial-e-continuada-fic-recepcionista-ofertados-pelo-bolsa-formacao-programa-mulheres-mil-no-ambito-do-campus-palmas/edital_11_2026_processo_seletivo_simplificado_para_curso_de_formacao_inicial_e_continuada_recepcionista_retificacao1.pdf"
+    },
+    {
+     "tipo": "resultado_definitivo",
+     "titulo": "Resultado final",
+     "url": "https://www.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-11-2026-processo-seletivo-simplificado-para-o-curso-de-formacao-inicial-e-continuada-fic-recepcionista-ofertados-pelo-bolsa-formacao-programa-mulheres-mil-no-ambito-do-campus-palmas/edital_11_2026_processo_simplificado_para_cursos_de_recepcionista_do_programa_mulheres_mil_no_campus_palmas_-resultado_final.pdf",
+     "data": "2026-03-10"
+    }
+   ],
+   "palavras_chave": [
+    "mulheres mil",
+    "fic",
+    "recepcionista"
+   ],
+   "aprovacao": {
+    "data": "2026-11-01",
+    "registro": "GEAE-R413D"
+   }
+  },
+  {
+   "id": "edital-7-2026-mestrado-ppgeca",
+   "numero": "7/2026",
+   "titulo": "Processo Seletivo para Preenchimento de Vagas no Mestrado Profissional do Programa de Pós-Graduação em Engenharia Civil e Ambiental (PPGECA)",
+   "categorias": [
+    "ingresso"
+   ],
+   "nivel": "Pós-graduação (mestrado profissional)",
+   "publico": "Candidatos ao mestrado profissional PPGECA do Campus Palmas",
+   "publicado_em": "2026-01-30",
+   "link_edital": "https://portal.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-7-2026-processo-seletivo-para-preenchimento-de-vagas-no-mestrado-profissional-do-programa-de-pos-graduacao-em-engenharia-civil-e-ambiental-ppgeca/edital_7_2026_processo_seletivo_para_preenchimento_de_vagas_do_mestrado_profissional_do_programa_de_pos-graduacao_em-engenharia_civil_e_ambiental_do_campus_palmas_do_ifto_2026-2.pdf",
+   "pagina_oficial": "https://portal.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-7-2026-processo-seletivo-para-preenchimento-de-vagas-no-mestrado-profissional-do-programa-de-pos-graduacao-em-engenharia-civil-e-ambiental-ppgeca",
+   "documentos": [
+    {
+     "tipo": "retificacao",
+     "titulo": "Retificação nº 1",
+     "url": "https://portal.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-7-2026-processo-seletivo-para-preenchimento-de-vagas-no-mestrado-profissional-do-programa-de-pos-graduacao-em-engenharia-civil-e-ambiental-ppgeca/edital_7_2026_processo_seletivo_para_preenchimento_de_vagas_do_mestrado_profissional_do_programa_de_pos_graduacao_em_engenharia_civil_ambiental_retificacao1.pdf",
+     "data": "2026-02-06"
+    },
+    {
+     "tipo": "retificacao",
+     "titulo": "Edital de abertura retificado",
+     "url": "https://portal.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-7-2026-processo-seletivo-para-preenchimento-de-vagas-no-mestrado-profissional-do-programa-de-pos-graduacao-em-engenharia-civil-e-ambiental-ppgeca/edital_7_2026_processo_seletivo_para_preenchimento_de_vagas_do_mestrado_profissional_do_programa_de_pos_graduacao_em_engenharia_civil_ambiental_edital_retificado.pdf",
+     "data": "2026-02-06"
+    },
+    {
+     "tipo": "retificacao",
+     "titulo": "Retificação nº 2",
+     "url": "https://portal.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-7-2026-processo-seletivo-para-preenchimento-de-vagas-no-mestrado-profissional-do-programa-de-pos-graduacao-em-engenharia-civil-e-ambiental-ppgeca/edital_7_2026_processo_seletivo_para_preenchimento_de_vagas_do_mestrado_profissional_do_programa_de_pos_graduacao_em_engenharia_civil_ambiental_edital_retificado_1.pdf"
+    },
+    {
+     "tipo": "retificacao",
+     "titulo": "Retificação nº 3",
+     "url": "https://portal.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-7-2026-processo-seletivo-para-preenchimento-de-vagas-no-mestrado-profissional-do-programa-de-pos-graduacao-em-engenharia-civil-e-ambiental-ppgeca/retificacao_3_cronograma.pdf",
+     "data": "2026-04-08"
+    },
+    {
+     "tipo": "retificacao",
+     "titulo": "Retificação nº 4",
+     "url": "https://portal.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-7-2026-processo-seletivo-para-preenchimento-de-vagas-no-mestrado-profissional-do-programa-de-pos-graduacao-em-engenharia-civil-e-ambiental-ppgeca/edital_7_2026_processo_seletivo_para_preenchimento_de_vagas_do_mestrado_profissional_do_programa_de_pos_graduacao_em_engenharia_civil_ambiental_edital_retificado_4.pdf"
+    },
+    {
+     "tipo": "retificacao",
+     "titulo": "Retificação nº 5",
+     "url": "https://portal.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-7-2026-processo-seletivo-para-preenchimento-de-vagas-no-mestrado-profissional-do-programa-de-pos-graduacao-em-engenharia-civil-e-ambiental-ppgeca/edital_7_2026_processo_seletivo_para_preenchimento_de_vagas_do_mestrado_profissional_do_programa_pos_graduacao_em_engenharia_civil_e_ambiental_do_campus_palmas_homologacao_definitiva_das_inscricoes_retificada.pdf",
+     "data": "2026-04-16"
+    },
+    {
+     "tipo": "resultado_definitivo",
+     "titulo": "Resultado final",
+     "url": "https://portal.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-7-2026-processo-seletivo-para-preenchimento-de-vagas-no-mestrado-profissional-do-programa-de-pos-graduacao-em-engenharia-civil-e-ambiental-ppgeca/edital-07-2026-r200b200besultado-final-do-processo-seletivo-para-o-mestrado-profissional-do-programa-de-pos-graduacao-em-engenharia-civil-e-ambiental.pdf",
+     "data": "2026-06-25"
+    },
+    {
+     "tipo": "retificacao",
+     "titulo": "Retificação do resultado final",
+     "url": "https://portal.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-7-2026-processo-seletivo-para-preenchimento-de-vagas-no-mestrado-profissional-do-programa-de-pos-graduacao-em-engenharia-civil-e-ambiental-ppgeca/edital-7-2026-seletivo-mestrado-ppgeca-2026-2-retificacao-resultado-final-1.pdf",
+     "data": "2026-07-02"
+    },
+    {
+     "tipo": "chamada",
+     "titulo": "Segunda chamada",
+     "url": "https://portal.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-7-2026-processo-seletivo-para-preenchimento-de-vagas-no-mestrado-profissional-do-programa-de-pos-graduacao-em-engenharia-civil-e-ambiental-ppgeca/edital-7-2026-seletivo-mestrado-ppgeca-2026-2-segunda-chamada.pdf",
+     "data": "2026-07-15"
+    },
+    {
+     "tipo": "chamada",
+     "titulo": "Terceira chamada",
+     "url": "https://portal.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-7-2026-processo-seletivo-para-preenchimento-de-vagas-no-mestrado-profissional-do-programa-de-pos-graduacao-em-engenharia-civil-e-ambiental-ppgeca/edital-7-2026-seletivo-mestrado-ppgeca-2026-2-3-chamada.pdf",
+     "data": "2026-08-05"
+    },
+    {
+     "tipo": "chamada",
+     "titulo": "Quarta chamada",
+     "url": "https://portal.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-7-2026-processo-seletivo-para-preenchimento-de-vagas-no-mestrado-profissional-do-programa-de-pos-graduacao-em-engenharia-civil-e-ambiental-ppgeca/edital-7-2026-convocacao-da-quarta-chamada-do-programa-de-pos-graduacao-em-engenharia-civil-e-ambiental-campus-palmas.pdf",
+     "data": "2026-08-11"
+    }
+   ],
+   "palavras_chave": [
+    "mestrado",
+    "pós-graduação",
+    "ppgeca",
+    "engenharia civil",
+    "ambiental"
+   ],
+   "aprovacao": {
+    "data": "2026-11-01",
+    "registro": "GEAE-R413D"
+   }
+  },
+  {
+   "id": "edital-15-2026-vagas-remanescentes-tecnicos-2026-1",
+   "numero": "15/2026",
+   "titulo": "Processo Seletivo de Vagas Remanescentes para Cursos Técnicos Subsequentes - 2026/1",
+   "categorias": [
+    "ingresso"
+   ],
+   "nivel": "Técnico Subsequente",
+   "publico": "Candidatos às vagas remanescentes dos cursos técnicos subsequentes do Campus Palmas",
+   "publicado_em": "2026-02-10",
+   "link_edital": "https://www.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-15-2026-processo-seletivo-de-vagas-remanescentes-para-cursos-tecnicos-subsequentes-2013-2026-1/edital_15_2026_processo_seletivo_vagas_remanescentes_cursos_tecnicos_subsequentes_semestre_2026_1.pdf",
+   "pagina_oficial": "https://www.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-15-2026-processo-seletivo-de-vagas-remanescentes-para-cursos-tecnicos-subsequentes-2013-2026-1",
+   "documentos": [
+    {
+     "tipo": "retificacao",
+     "titulo": "Retificação nº 1 (cronograma)",
+     "url": "https://www.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-15-2026-processo-seletivo-de-vagas-remanescentes-para-cursos-tecnicos-subsequentes-2013-2026-1/edital_15_2026_processo_seletivo_de_vagas_remanescentes_dos_cursos_tecnicos_do_campus_palmas_retificacao.pdf",
+     "data": "2026-02-23"
+    },
+    {
+     "tipo": "retificacao",
+     "titulo": "Retificação nº 2",
+     "url": "https://www.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-15-2026-processo-seletivo-de-vagas-remanescentes-para-cursos-tecnicos-subsequentes-2013-2026-1/edital_15_2026_processo_seletivo_para_preenchimento_de_vagas_remanescentes_dos_cursos_tecnicos.pdf"
+    },
+    {
+     "tipo": "comunicado",
+     "titulo": "Homologação das inscrições",
+     "url": "https://www.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-15-2026-processo-seletivo-de-vagas-remanescentes-para-cursos-tecnicos-subsequentes-2013-2026-1/edital_15_2026_processo_seletivo_para_preenchimento_de_vagas_remanescentes_dos_cursos_tecnicos_homologacao_das_inscricoes.pdf"
+    },
+    {
+     "tipo": "resultado_definitivo",
+     "titulo": "Resultado final e convocação para matrícula",
+     "url": "https://www.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-15-2026-processo-seletivo-de-vagas-remanescentes-para-cursos-tecnicos-subsequentes-2013-2026-1/edital_15_2026_processo_seletivo_de_vagas_remanescentes_dos_cursos_tecnicos_do_campus_palmas_resultado_final.pdf",
+     "data": "2026-03-06"
+    }
+   ],
+   "palavras_chave": [
+    "vagas remanescentes",
+    "técnico subsequente",
+    "2026/1"
+   ],
+   "aprovacao": {
+    "data": "2026-11-01",
+    "registro": "GEAE-R413D"
+   }
+  },
+  {
+   "id": "edital-45-2026-tecnicos-subsequentes-2026-2",
+   "numero": "45/2026",
+   "titulo": "Processo Seletivo para Cursos Técnicos Subsequentes no Campus Palmas - 2026/2",
+   "categorias": [
+    "ingresso"
+   ],
+   "nivel": "Técnico Subsequente",
+   "publico": "Candidatos aos cursos técnicos subsequentes 2026/2 do Campus Palmas",
+   "link_edital": "https://www.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-45-2026-processo-seletivo-para-cursos-tecnicos-subsequentes-no-campus-palmas/edital_45_2026_processo_seletivo_para_cursos_tcnicos_subsequentes_do_campus_palmas.pdf",
+   "pagina_oficial": "https://www.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-45-2026-processo-seletivo-para-cursos-tecnicos-subsequentes-no-campus-palmas",
+   "documentos": [
+    {
+     "tipo": "retificacao",
+     "titulo": "Retificação nº 1",
+     "url": "https://www.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-45-2026-processo-seletivo-para-cursos-tecnicos-subsequentes-no-campus-palmas/edital-45-2026-seletivo-cursos-tecnicos-subsequentes-2026-2-retificacao-1.pdf",
+     "data": "2026-06-10"
+    },
+    {
+     "tipo": "comunicado",
+     "titulo": "Homologação das inscrições",
+     "url": "https://www.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-45-2026-processo-seletivo-para-cursos-tecnicos-subsequentes-no-campus-palmas/edital-45-2026-processo-seletivo-dos-cursos-tecnicos-subsequentes-do-campus-palmas-homologacao-das-inscricoes.pdf",
+     "data": "2026-06-26"
+    },
+    {
+     "tipo": "retificacao",
+     "titulo": "Retificação do cronograma",
+     "url": "https://www.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-45-2026-processo-seletivo-para-cursos-tecnicos-subsequentes-no-campus-palmas/edital-45-2026-seletivo-cursos-tecnicos-subsequentes-2026-2-retificacao-anexo-ii.pdf",
+     "data": "2026-07-01"
+    },
+    {
+     "tipo": "resultado_preliminar",
+     "titulo": "Resultado preliminar da análise da documentação de reservas de vagas",
+     "url": "https://www.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-45-2026-processo-seletivo-para-cursos-tecnicos-subsequentes-no-campus-palmas/edital-45-2026-seletivo-cursos-tecnicos-subsequentes-2026-2-resultado-preliminar-reservas-vagas.pdf",
+     "data": "2026-07-01"
+    },
+    {
+     "tipo": "resultado_definitivo",
+     "titulo": "Resultado final — reservas de vagas",
+     "url": "https://www.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-45-2026-processo-seletivo-para-cursos-tecnicos-subsequentes-no-campus-palmas/edital-45-2026-seletivo-cursos-tecnicos-subsequentes-2026-2-resultado-final-reservas-vagas.pdf"
+    },
+    {
+     "tipo": "resultado_definitivo",
+     "titulo": "Resultado final e convocação de matrícula",
+     "url": "https://www.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-45-2026-processo-seletivo-para-cursos-tecnicos-subsequentes-no-campus-palmas/edital-45-2026-seletivo-cursos-tecnicos-subsequentes-2026-2-resultado-final.pdf"
+    },
+    {
+     "tipo": "chamada",
+     "titulo": "Resultado da 2ª chamada",
+     "url": "https://www.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-45-2026-processo-seletivo-para-cursos-tecnicos-subsequentes-no-campus-palmas/edital-45-2026-seletivo-cursos-tecnicos-subsequentes-2026-2-resultado-2-chamada.pdf",
+     "data": "2026-07-16"
+    },
+    {
+     "tipo": "convocacao",
+     "titulo": "Convocação de manifestação de interesse",
+     "url": "https://www.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-45-2026-processo-seletivo-para-cursos-tecnicos-subsequentes-no-campus-palmas/sei_ifto-3263009-etapas-do-edital.pdf",
+     "data": "2026-07-28"
+    },
+    {
+     "tipo": "comunicado",
+     "titulo": "Manifestação de interesse",
+     "url": "https://www.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-45-2026-processo-seletivo-para-cursos-tecnicos-subsequentes-no-campus-palmas/edital-45-2026-processo-seletivo-2026-2-cursos-tecnicos-subsequentes-manifestacao-de-interesse-pdf.pdf",
+     "data": "2026-08-07"
+    }
+   ],
+   "palavras_chave": [
+    "técnico subsequente",
+    "vestibular",
+    "2026/2"
+   ],
+   "aprovacao": {
+    "data": "2026-11-01",
+    "registro": "GEAE-R413D"
+   }
+  },
+  {
+   "id": "edital-9-2026-vagas-remanescentes-superiores-2026-1",
+   "numero": "9/2026",
+   "titulo": "Processo Seletivo de Vagas Remanescentes para Cursos Superiores do Campus Palmas",
+   "categorias": [
+    "ingresso"
+   ],
+   "nivel": "Ensino Superior",
+   "publico": "Candidatos às vagas remanescentes dos cursos superiores do Campus Palmas (manifestação de interesse)",
+   "link_edital": "https://www.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-9-2026-processo-seletivo-de-vagas-remanescentes-para-cursos-superiores-do-campus-palmas/edital_9_2026_edital_de_manifestacao_interessse_para_vagas_remanescentes_dos_cursos_superiores_-do_campus_palmas.pdf",
+   "pagina_oficial": "https://www.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-9-2026-processo-seletivo-de-vagas-remanescentes-para-cursos-superiores-do-campus-palmas",
+   "documentos": [
+    {
+     "tipo": "resultado_preliminar",
+     "titulo": "Resultado preliminar",
+     "url": "https://www.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-9-2026-processo-seletivo-de-vagas-remanescentes-para-cursos-superiores-do-campus-palmas/edital_9_2026_edital_de_manifestacao_interessse_para_vagas_remanescentes_dos_cursos_superiores_-do_campus_palmas_resultado_preliminar.pdf",
+     "data": "2026-02-06"
+    },
+    {
+     "tipo": "resultado_definitivo",
+     "titulo": "Resultado final",
+     "url": "https://www.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-9-2026-processo-seletivo-de-vagas-remanescentes-para-cursos-superiores-do-campus-palmas/edital_9_2026_edital_de_manifestacao_interessse_para_vagas_remanescentes_dos_cursos_superiores_-do_campus_palmas_resultado_final.pdf",
+     "data": "2026-02-10"
+    }
+   ],
+   "palavras_chave": [
+    "vagas remanescentes",
+    "graduação",
+    "manifestação de interesse"
+   ],
+   "aprovacao": {
+    "data": "2026-11-01",
+    "registro": "GEAE-R413D"
+   }
+  },
+  {
+   "id": "edital-29-2026-psid-anjo-da-guarda-2026-1",
+   "numero": "29/2026",
+   "titulo": "Seleção de Estudantes dos Cursos do Projeto Social de Inclusão Digital “Anjo da Guarda” – PSID 2026/1",
+   "categorias": [
+    "ingresso"
+   ],
+   "nivel": "Cursos de extensão",
+   "publico": "Candidatos a alunos-cursistas dos cursos do PSID (comunidade)",
+   "publicado_em": "2026-04-08",
+   "link_edital": "https://www.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-28-2026-selecao-de-alunos-dos-cursos-do-projeto-social-de-inclusao-digital-201canjo-da-guarda201d-2013-psid-do-campus-palmas/edital_29_retificado.pdf",
+   "pagina_oficial": "https://www.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-28-2026-selecao-de-alunos-dos-cursos-do-projeto-social-de-inclusao-digital-201canjo-da-guarda201d-2013-psid-do-campus-palmas",
+   "cronograma": [
+    {
+     "etapa": "inscricao",
+     "inicio": "2026-04-08",
+     "fim": "2026-04-22"
+    },
+    {
+     "etapa": "outro",
+     "inicio": "2026-04-23",
+     "rotulo": "Sorteio"
+    },
+    {
+     "etapa": "outro",
+     "inicio": "2026-04-24",
+     "rotulo": "Homologação das inscrições"
+    },
+    {
+     "etapa": "matricula",
+     "inicio": "2026-04-25",
+     "fim": "2026-05-02"
+    }
+   ],
+   "documentos": [
+    {
+     "tipo": "retificacao",
+     "titulo": "Retificação nº 1 (cronograma: data de matrícula)",
+     "url": "https://www.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-28-2026-selecao-de-alunos-dos-cursos-do-projeto-social-de-inclusao-digital-201canjo-da-guarda201d-2013-psid-do-campus-palmas/edital_29_2026_selecao_de_alunos_para_cursos_de_extensao_do_projeto_social_de_inclusao_digital_psid_1_2026.pdf",
+     "data": "2026-04-22"
+    },
+    {
+     "tipo": "comunicado",
+     "titulo": "Homologação do resultado",
+     "url": "https://www.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-28-2026-selecao-de-alunos-dos-cursos-do-projeto-social-de-inclusao-digital-201canjo-da-guarda201d-2013-psid-do-campus-palmas/homologacao_resultado_edital_29.pdf",
+     "data": "2026-04-30"
+    }
+   ],
+   "palavras_chave": [
+    "psid",
+    "anjo da guarda",
+    "inclusão digital",
+    "extensão"
+   ],
+   "aprovacao": {
+    "data": "2026-11-01",
+    "registro": "GEAE-R413D"
+   }
+  },
+  {
+   "id": "edital-67-2026-cursos-centro-de-idiomas",
+   "numero": "67/2026",
+   "titulo": "Processo Seletivo Simplificado para Cursos do Centro de Idiomas do Campus Palmas 2026/2",
+   "categorias": [
+    "centro-idiomas"
+   ],
+   "nivel": "Cursos de idiomas",
+   "publico": "Estudantes do ensino médio, técnico ou superior e candidatos a vestibulares ou testes de proficiência, a partir de 14 anos",
+   "publicado_em": "2026-10-19",
+   "link_edital": "https://www.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-67-2026-processo-seletivo-simplificado-para-cursos-do-centro-de-idiomas-do-campus-palmas-do-instituto-federal-de-educacao-ciencia-e-tecnologia-do-tocantins-2026-2/edital-67-2026-processo-seletivo-simplificado-para-cursos-do-centro-de-idiomas-do-campus-palmas-do-instituto-federal-de-educacao-ciencia-e-tecnologia-do-tocantins-2026-2.pdf",
+   "pagina_oficial": "https://www.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-67-2026-processo-seletivo-simplificado-para-cursos-do-centro-de-idiomas-do-campus-palmas-do-instituto-federal-de-educacao-ciencia-e-tecnologia-do-tocantins-2026-2",
+   "cronograma": [
+    {
+     "etapa": "inscricao",
+     "inicio": "2026-10-20",
+     "fim": "2026-10-30"
+    },
+    {
+     "etapa": "outro",
+     "inicio": "2026-11-02",
+     "rotulo": "Homologação e convocação para o teste de nivelamento"
+    },
+    {
+     "etapa": "outro",
+     "inicio": "2026-11-04",
+     "rotulo": "Teste de nivelamento (online)"
+    },
+    {
+     "etapa": "resultado_preliminar",
+     "inicio": "2026-11-05"
+    },
+    {
+     "etapa": "recurso",
+     "inicio": "2026-11-06"
+    },
+    {
+     "etapa": "resultado_final",
+     "inicio": "2026-11-09",
+     "rotulo": "Resultado final e convocação para matrícula"
+    },
+    {
+     "etapa": "matricula",
+     "inicio": "2026-11-09",
+     "fim": "2026-11-13"
+    },
+    {
+     "etapa": "outro",
+     "inicio": "2026-11-16",
+     "rotulo": "Início das aulas"
+    }
+   ],
+   "documentos": [
+    {
+     "tipo": "retificacao",
+     "titulo": "Retificação nº 1 (quadro de cursos, vagas e horários)",
+     "url": "https://www.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-67-2026-processo-seletivo-simplificado-para-cursos-do-centro-de-idiomas-do-campus-palmas-do-instituto-federal-de-educacao-ciencia-e-tecnologia-do-tocantins-2026-2/edital-67-2026-retificacao-processo-seletivo-simplificado-para-cursos-do-centro-de-idiomas-do-campus-palmas.pdf",
+     "data": "2026-10-27"
+    }
+   ],
+   "palavras_chave": [
+    "inglês",
+    "espanhol",
+    "francês",
+    "libras",
+    "português instrumental",
+    "idiomas",
+    "nivelamento"
+   ],
+   "aprovacao": {
+    "data": "2026-11-01",
+    "registro": "GEAE-R413D"
+   }
+  },
+  {
+   "id": "edital-68-2026-monitores-centro-de-idiomas",
+   "numero": "68/2026",
+   "titulo": "Seleção de Monitores para atuar no Centro de Idiomas do Campus Palmas - 2026/2",
+   "categorias": [
+    "monitoria",
+    "centro-idiomas"
+   ],
+   "publico": "Estudantes regularmente matriculados em curso superior, médio integrado ou técnico do IFTO (bolsa de monitoria)",
+   "publicado_em": "2026-10-20",
+   "link_edital": "https://ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-68-2026-selecao-de-monitores-para-atuar-no-centro-de-idiomas-do-campus-palmas-do-instituto-federal-do-tocantins-2026-2/edital-68-2026-selecao-monitores-centro-de-idiomas-campus-palmas.pdf",
+   "pagina_oficial": "https://ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-68-2026-selecao-de-monitores-para-atuar-no-centro-de-idiomas-do-campus-palmas-do-instituto-federal-do-tocantins-2026-2",
+   "cronograma": [
+    {
+     "etapa": "inscricao",
+     "inicio": "2026-10-20",
+     "fim": "2026-10-27"
+    },
+    {
+     "etapa": "outro",
+     "inicio": "2026-10-28",
+     "rotulo": "Homologação das inscrições"
+    },
+    {
+     "etapa": "recurso",
+     "inicio": "2026-10-30"
+    },
+    {
+     "etapa": "outro",
+     "inicio": "2026-11-02",
+     "rotulo": "Homologação final e convocação para entrevista"
+    },
+    {
+     "etapa": "outro",
+     "inicio": "2026-11-04",
+     "rotulo": "Entrevistas"
+    },
+    {
+     "etapa": "resultado_final",
+     "inicio": "2026-11-05"
+    }
+   ],
+   "documentos": [
+    {
+     "tipo": "comunicado",
+     "titulo": "Homologação das inscrições",
+     "url": "https://ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-68-2026-selecao-de-monitores-para-atuar-no-centro-de-idiomas-do-campus-palmas-do-instituto-federal-do-tocantins-2026-2/edital-68-2026-homologacao-das-inscricoes-selecao-monitores-centro-de-idiomas-campus-palmas.pdf",
+     "data": "2026-10-28"
+    }
+   ],
+   "palavras_chave": [
+    "monitor",
+    "monitoria",
+    "bolsa",
+    "idiomas",
+    "inglês",
+    "espanhol",
+    "francês",
+    "libras"
+   ],
+   "aprovacao": {
+    "data": "2026-11-01",
+    "registro": "GEAE-R413D"
+   }
+  },
+  {
+   "id": "edital-8-2026-renovacao-auxilio-estudantil",
+   "numero": "8/2026",
+   "titulo": "Renovação de Auxílio Estudantil para Estudantes Beneficiários do Edital 23/2025 e 13/2025 do Campus Palmas",
+   "categorias": [
+    "outros"
+   ],
+   "publico": "Estudantes beneficiários dos auxílios dos Editais 13/2025 e 23/2025 do Campus Palmas",
+   "publicado_em": "2026-02-02",
+   "link_edital": "https://portal.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-8-2026-renovacao-de-auxilio-estudantil-para-estudantes-beneficiarios-do-edital-23-2025-do-campus-palmas/edital_8_2026_renovacao_de_auxilio_estudantil_para_estudantes_beneficiarios_do_edital_23_2025.pdf",
+   "pagina_oficial": "https://portal.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-8-2026-renovacao-de-auxilio-estudantil-para-estudantes-beneficiarios-do-edital-23-2025-do-campus-palmas",
+   "documentos": [
+    {
+     "tipo": "retificacao",
+     "titulo": "Edital retificado em 04/02/2026",
+     "url": "https://portal.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-8-2026-renovacao-de-auxilio-estudantil-para-estudantes-beneficiarios-do-edital-23-2025-do-campus-palmas/edital_8_2026_renovacao_de_auxilio_estudantil_para_estudantes_beneficiarios_do_edital_23_2025_e_13_2025_retificado.pdf",
+     "data": "2026-02-04"
+    },
+    {
+     "tipo": "retificacao",
+     "titulo": "Retificação nº 1",
+     "url": "https://portal.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-8-2026-renovacao-de-auxilio-estudantil-para-estudantes-beneficiarios-do-edital-23-2025-do-campus-palmas/edital_8_2026_renovacao_de_auxilio_estudantil_para_estudantes_beneficiarios_do_edital_23_2025_retificacao1.pdf"
+    },
+    {
+     "tipo": "retificacao",
+     "titulo": "Retificação nº 2",
+     "url": "https://portal.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-8-2026-renovacao-de-auxilio-estudantil-para-estudantes-beneficiarios-do-edital-23-2025-do-campus-palmas/edital_8_2026_renovacao_de_auxilio_estudantil_para_estudantes_beneficiarios_do_edital_23_2025_e_13_2025_retificacao2.pdf",
+     "data": "2026-02-13"
+    },
+    {
+     "tipo": "retificacao",
+     "titulo": "Retificação nº 3",
+     "url": "https://portal.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-8-2026-renovacao-de-auxilio-estudantil-para-estudantes-beneficiarios-do-edital-23-2025-do-campus-palmas/retificacao_3_edital_8.pdf",
+     "data": "2026-03-09"
+    },
+    {
+     "tipo": "resultado_preliminar",
+     "titulo": "Resultado preliminar — Ensino Técnico Integrado ao Ensino Médio",
+     "url": "https://portal.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-8-2026-renovacao-de-auxilio-estudantil-para-estudantes-beneficiarios-do-edital-23-2025-do-campus-palmas/edital_8_2026_renovacao_de_auxilio_estudantil_para_estudantes_beneficiarios_do_edital_23_2025_e_13_2025_resultado_preliminar_da_renovacacao.pdf",
+     "data": "2026-02-13"
+    },
+    {
+     "tipo": "resultado_preliminar",
+     "titulo": "Resultado preliminar — cursos superiores, técnico subsequente e PROEJA",
+     "url": "https://portal.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-8-2026-renovacao-de-auxilio-estudantil-para-estudantes-beneficiarios-do-edital-23-2025-do-campus-palmas/edital_8_2026_renovacao_de_auxilio_estudantil_para_estudantes_beneficiarios_do_edital_23_2025_resultado_preliminar_cursos_superior.pdf"
+    },
+    {
+     "tipo": "outro",
+     "titulo": "Resultado da interposição de recurso",
+     "url": "https://portal.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-8-2026-renovacao-de-auxilio-estudantil-para-estudantes-beneficiarios-do-edital-23-2025-do-campus-palmas/edital_8_2026_renovacao_de_auxilio_estudantil_para_estudantes_beneficiarios_do_edital_23_2025_resultado_recurso.pdf"
+    },
+    {
+     "tipo": "resultado_definitivo",
+     "titulo": "Resultado final — Ensino Técnico Integrado ao Ensino Médio",
+     "url": "https://portal.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-8-2026-renovacao-de-auxilio-estudantil-para-estudantes-beneficiarios-do-edital-23-2025-do-campus-palmas/edital_8_2026_renovacao_de_auxilio_estudantil_para_estudantes_beneficiarios_do_edital_23_2025_resultado_final.pdf"
+    },
+    {
+     "tipo": "resultado_definitivo",
+     "titulo": "Resultado final — cursos superiores, técnico subsequente e PROEJA",
+     "url": "https://portal.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-8-2026-renovacao-de-auxilio-estudantil-para-estudantes-beneficiarios-do-edital-23-2025-do-campus-palmas/edital_8_2026_renovacao_de_auxilio_estudantil_para_estudantes_beneficiarios_do_edital_23_2025_resultado_final_superior_tecnico_subsequente_e_proeja.pdf"
+    }
+   ],
+   "palavras_chave": [
+    "auxílio estudantil",
+    "renovação",
+    "assistência estudantil",
+    "alimentação"
+   ],
+   "vigencia": {
+    "ano": 2026,
+    "rotulo": "Vigência em 2026 — consulte o edital"
+   },
+   "aprovacao": {
+    "data": "2026-11-01",
+    "registro": "GEAE-R413D"
+   }
+  },
+  {
+   "id": "edital-61-2026-monitor-laboratorio-nda",
+   "numero": "61/2026",
+   "titulo": "Processo de Seleção de Monitor para o Laboratório de Práticas Autônomas do NDA de Controle e Processos Industriais",
+   "categorias": [
+    "monitoria"
+   ],
+   "publico": "Estudantes matriculados em 2026/2 em Engenharia Elétrica, Eletrotécnica (integrado ou subsequente) ou Mecatrônica (integrado)",
+   "publicado_em": "2026-09-09",
+   "link_edital": "https://www.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-61-2026-pal-rei-ifto-processo-de-selecao-de-monitores-para-o-laboratorio-de-praticas-autonomas-do-nda-de-controle-e-processos-industriais-do-campus-palmas-do-ifto/edital-61-2026-processo-seletivo-de-monitores-laboratorio-de-praticas-autonomas.pdf",
+   "pagina_oficial": "https://www.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-61-2026-pal-rei-ifto-processo-de-selecao-de-monitores-para-o-laboratorio-de-praticas-autonomas-do-nda-de-controle-e-processos-industriais-do-campus-palmas-do-ifto",
+   "cronograma": [
+    {
+     "etapa": "inscricao",
+     "inicio": "2026-09-09",
+     "fim": "2026-09-15"
+    }
+   ],
+   "documentos": [
+    {
+     "tipo": "resultado_definitivo",
+     "titulo": "Resultado final",
+     "url": "https://www.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-61-2026-pal-rei-ifto-processo-de-selecao-de-monitores-para-o-laboratorio-de-praticas-autonomas-do-nda-de-controle-e-processos-industriais-do-campus-palmas-do-ifto/edital_56_processo_seletivo_monitor_para_laboratorio-de-praticas-autonomas-resultado-final.pdf",
+     "data": "2026-09-25"
+    }
+   ],
+   "palavras_chave": [
+    "monitor",
+    "monitoria",
+    "bolsa",
+    "laboratório",
+    "eletrotécnica",
+    "mecatrônica"
+   ],
+   "aprovacao": {
+    "data": "2026-11-01",
+    "registro": "GEAE-R413D"
+   }
+  },
+  {
+   "id": "edital-56-2026-fic-camareira-mulheres-mil",
+   "numero": "56/2026",
+   "titulo": "Processo Seletivo para Curso de Camareira em Meios de Hospedagem do Programa Mulheres Mil",
+   "categorias": [
+    "ingresso"
+   ],
+   "nivel": "Formação Inicial e Continuada (FIC)",
+   "publico": "Candidatas ao curso FIC Camareira em Meios de Hospedagem (Programa Mulheres Mil + Cuidados)",
+   "publicado_em": "2026-08-06",
+   "link_edital": "https://www.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-56-2026-processo-seletivo-para-curso-de-camareira-em-meios-de-hospedagem-do-programa-mulheres-mil/edital_56_processo_seletivo_simplificado_para_curso_fic_camareira_em_meios_de_hospedagem_programa_mulheres_mil.pdf",
+   "pagina_oficial": "https://www.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-56-2026-processo-seletivo-para-curso-de-camareira-em-meios-de-hospedagem-do-programa-mulheres-mil",
+   "cronograma": [
+    {
+     "etapa": "inscricao",
+     "inicio": "2026-08-07",
+     "fim": "2026-08-17"
+    }
+   ],
+   "documentos": [
+    {
+     "tipo": "retificacao",
+     "titulo": "Retificação nº 1 (cronograma)",
+     "url": "https://www.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-56-2026-processo-seletivo-para-curso-de-camareira-em-meios-de-hospedagem-do-programa-mulheres-mil/edital-56-2026-processo-seletivo-curso-de-camareira-mulheres-mil-retificacao-do-cronograma.pdf",
+     "data": "2026-08-14"
+    },
+    {
+     "tipo": "resultado_definitivo",
+     "titulo": "Resultado final",
+     "url": "https://www.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-56-2026-processo-seletivo-para-curso-de-camareira-em-meios-de-hospedagem-do-programa-mulheres-mil/edital-53-2026-seletivo-curso-de-camareira-em-meios-de-hospedagem-do-programa-mulheres-mil-resultado-final.pdf",
+     "data": "2026-08-17"
+    }
+   ],
+   "palavras_chave": [
+    "mulheres mil",
+    "fic",
+    "camareira",
+    "hospedagem"
+   ],
+   "aprovacao": {
+    "data": "2026-11-01",
+    "registro": "GEAE-R413D"
+   }
+  },
+  {
+   "id": "edital-24-2026-sylmara-barreira",
+   "numero": "24/2026",
+   "titulo": "Programa de Incentivo à Participação Feminina na Pesquisa - Sylmara Barreira 2026",
+   "categorias": [
+    "outros"
+   ],
+   "oportunidade_estudantil": "Bolsas de pesquisa para estudantes do Campus Palmas vinculadas aos projetos selecionados (requisitos no item 5.3 do edital)",
+   "publico": "Pesquisadoras docentes proponentes e estudantes bolsistas do Campus Palmas",
+   "publicado_em": "2026-03-18",
+   "link_edital": "https://www.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-24-2026-selecao-de-projetos-para-vii-mostra-cientifica-do-campus-palmas/edital_24_2026_selecao_de_projetos_para_vii_mostra_cientifica_do_campus_palmas.pdf",
+   "pagina_oficial": "https://www.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-24-2026-selecao-de-projetos-para-vii-mostra-cientifica-do-campus-palmas",
+   "cronograma": [
+    {
+     "etapa": "inscricao",
+     "inicio": "2026-03-23",
+     "fim": "2026-04-21",
+     "rotulo": "Submissão das propostas"
+    }
+   ],
+   "documentos": [
+    {
+     "tipo": "retificacao",
+     "titulo": "Retificação nº 1 (prazo de submissão)",
+     "url": "https://www.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-24-2026-selecao-de-projetos-para-vii-mostra-cientifica-do-campus-palmas/edital_24_2026_selecao_programa_de_incentivo_a_particiapacao_feminina_na_pesquisa_sylmara_barreira_2026_retificacao1.pdf",
+     "data": "2026-04-17"
+    },
+    {
+     "tipo": "comunicado",
+     "titulo": "Homologação das inscrições",
+     "url": "https://www.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-24-2026-selecao-de-projetos-para-vii-mostra-cientifica-do-campus-palmas/edital_24_2026_selecao_de_projetos_para_vii_mostra_cientifica_do_campus_palmas_homologacao_inscricoes.pdf"
+    },
+    {
+     "tipo": "resultado_preliminar",
+     "titulo": "Resultado preliminar",
+     "url": "https://www.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-24-2026-selecao-de-projetos-para-vii-mostra-cientifica-do-campus-palmas/edital_24_2026_selecao_de_projetos_para_vii_mostra_cientifica_do_campus_palmas_resultado_preliminar.pdf"
+    },
+    {
+     "tipo": "resultado_definitivo",
+     "titulo": "Resultado final",
+     "url": "https://www.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-24-2026-selecao-de-projetos-para-vii-mostra-cientifica-do-campus-palmas/resultado_final_sylmarabarreira.pdf",
+     "data": "2026-05-05"
+    },
+    {
+     "tipo": "convocacao",
+     "titulo": "Convocação nº 1",
+     "url": "https://www.ifto.edu.br/palmas/campus-palmas/seletivos-palmas/edital-no-24-2026-selecao-de-projetos-para-vii-mostra-cientifica-do-campus-palmas/convocacao_sylmarabarreira.pdf",
+     "data": "2026-05-05"
+    }
+   ],
+   "palavras_chave": [
+    "pesquisa",
+    "iniciação científica",
+    "bolsa",
+    "participação feminina"
+   ],
+   "aprovacao": {
+    "data": "2026-11-01",
+    "registro": "GEAE-R413D"
+   }
+  }
+ ]
+}
